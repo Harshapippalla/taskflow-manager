@@ -1,0 +1,56 @@
+# TaskFlow Manager 📋
+
+A clean, responsive task management web application built with vanilla HTML, CSS, and JavaScript.
+
+## Features
+- ✅ Add, complete, and delete tasks
+- ✅ Filter tasks (All/Active/Completed)
+- ✅ Task statistics counter
+- ✅ Local storage persistence
+- ✅ Fully responsive design
+- ✅ Error handling and validation
+- ✅ Smooth animations and transitions
+
+## Technologies Used
+- **HTML5** - Semantic markup
+- **CSS3** - Flexbox, Grid, animations, responsive design
+- **Vanilla JavaScript** - DOM manipulation, event handling, localStorage API
+- **Font Awesome** - Icons
+- **Google Fonts** - Poppins font
+
+## How to Use
+1. Clone or download the project
+2. Open `index.html` in any modern browser
+3. Add tasks using the input field
+4. Click checkbox to mark tasks complete
+5. Use filters to view different task categories
+6. Delete individual tasks or clear all completed tasks
+
+## Project Structure
+taskflow-manager/
+├── index.html # Main HTML file
+├── style.css # All styling
+├── script.js # JavaScript functionality
+└── README.md # Project documentation
+
+
+## Key JavaScript Concepts Demonstrated
+- DOM manipulation and event handling
+- Array methods (filter, forEach, findIndex)
+- localStorage for data persistence
+- ES6+ features (arrow functions, template literals)
+- Error handling and validation
+- Responsive design implementation
+
+## Browser Compatibility
+Works on all modern browsers (Chrome, Firefox, Safari, Edge)
+
+## Future Enhancements
+- Due dates for tasks
+- Task categories/tags
+- Drag and drop reordering
+- Export tasks to PDF/CSV
+- Dark/light mode toggle
+
+---
+*Built as a learning project to demonstrate core frontend development skills.*
